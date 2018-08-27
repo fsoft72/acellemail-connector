@@ -1,0 +1,12 @@
+{
+  "name": "acellemail-connector",
+  "version": "0.1.0",
+  "description": "A simple AcelleMail connector for Node.js",
+  "main": "index.js",
+  "repository": "https://github.com/fsoft72/acellemail-connector.git",
+  "author": "Fabio Rotondo <fabio.rotondo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
