@@ -7,6 +7,6 @@
   "author": "Fabio Rotondo <fabio.rotondo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.22.0"
   }
 }
